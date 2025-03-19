@@ -1,7 +1,10 @@
 // El principal objetivo de este desafío es fortalecer tus habilidades en lógica de programación. 
 // Aquí deberás desarrollar la lógica para resolver el problema.
-let amigos = []; // Array para almacenar los nombres de los amigos
 
+//Utilicé las herramientas entregadas durante mi formación en los cursos de Alura, como ChatGPT para comprobar errores, buscar comandos que me ayudasen en mi tarea
+//y comprobar si había código redundante.
+
+let amigos = []; // Array para almacenar los nombres de los amigos
 function agregarAmigo() {
     // Capturar el valor del campo de entrada
     let inputAmigo = document.getElementById("amigo");
